@@ -1,9 +1,7 @@
-<title>
-HI MY NAME IS YASSINE AIT AMGHAR , U CAN USE THIS PORTFOLIO ANY TIME ! 
-</title>
 
+HI, MY NAME IS YASSINE AIT AMGHAR , U CAN USE THIS PORTFOLIO ANY TIME ! 
 <p align="center" width="100%">
-    <img height="100" src="https://www.google.com/imgres?q=technologie%20de%20l%27informatique&imgurl=https%3A%2F%2Ftryengineering.org%2Fwp-content%2Fuploads%2Fbigstock-Concept-Of-Programming-Coding-375861967-scaled.jpg&imgrefurl=https%3A%2F%2Ftryengineering.org%2Ffr%2Fprofile%2Fcomputer-information-technology%2F&docid=bmx041ZAGBxV0M&tbnid=VB266hr3uiVPJM&vet=12ahUKEwjriZGL0oyJAxWlxQIHHTnhF28QM3oECGQQAA..i&w=2560&h=1440&hcb=2&ved=2ahUKEwjriZGL0oyJAxWlxQIHHTnhF28QM3oECGQQAA">
+    <img height="100" src="https://techsteamcenter.com/wp-content/uploads/2023/08/computer-language.webp">
 </p>
 
 ---
